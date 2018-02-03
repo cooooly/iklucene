@@ -1,0 +1,4 @@
+该项目已经包含了查看分词可视化的jar
+ikanalyzer.jar位于lib下
+lukeall.jar位于viewlukeall下
+运行黑窗口即可 , 可视化查看ik分词 , plugin 下粘贴ik类路径进行analyzer
